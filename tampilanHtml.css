@@ -1,3 +1,9 @@
+:root {
+    --bg-color: #0f172a; /* Warna latar belakang gelap (Slate 900) */
+    --text-color: #94a3b8; /* Teks paragraf (Slate 400) */
+    --heading-color: #e2e8f0; /* Teks judul terang (Slate 200) */
+    --accent-teal: #5eead4; /* Aksen warna khas */
+}
 
 body { 
     font-family: sans-serif; 
